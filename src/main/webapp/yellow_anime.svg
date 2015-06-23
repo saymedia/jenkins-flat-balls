@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="47.142857"
+   height="47.142857"
+   id="svg3845">
+  <defs
+     id="defs3847" />
+  <metadata
+     id="metadata3850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-290.71429,-365.93361)"
+     id="layer1">
+    <g
+       transform="translate(-208.83295,155.42858)"
+       id="g3861">
+      <path
+         d="m 124.64285,110.21932 a 23.571428,23.571428 0 1 1 -47.142852,0 23.571428,23.571428 0 1 1 47.142852,0 z"
+         transform="translate(422.04724,123.85714)"
+         id="path2985-2-3-8-5"
+         style="fill:#cc9100;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 501.65334,234.07646 c 2.87317,1e-5 5.61657,-0.54681 8.23023,-1.64048 2.4839,-1.03802 4.79169,-2.61363 6.92342,-4.72683 2.07607,-2.05753 3.6424,-4.36532 4.69901,-6.9234 1.07509,-2.55801 1.61265,-5.32922 1.61268,-8.31364 -3e-5,2.91028 0.50973,5.62588 1.52926,8.1468 1.01949,2.52101 2.61363,4.88442 4.78243,7.09024 2.00192,2.03905 4.30971,3.61465 6.9234,4.72683 2.59508,1.09367 5.33848,1.64049 8.23023,1.64048 -2.89175,1e-5 -5.63515,0.54685 -8.23023,1.64048 -2.61369,1.11222 -4.92148,2.68783 -6.9234,4.72683 -2.1688,2.20585 -3.76294,4.56927 -4.78243,7.09022 -1.01953,2.52098 -1.52929,5.23658 -1.52926,8.14682 -3e-5,-2.98438 -0.53759,-5.75559 -1.61268,-8.31364 -1.05661,-2.55804 -2.62294,-4.86583 -4.69901,-6.9234 -2.13173,-2.11316 -4.43952,-3.68876 -6.92342,-4.72683 -2.61366,-1.09363 -5.35706,-1.64047 -8.23023,-1.64048"
+         id="path3985-9-0"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans" />
+    </g>
+  </g>
+</svg>

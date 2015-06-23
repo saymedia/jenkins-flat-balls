@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="47.142857"
+   height="47.142857"
+   id="svg3845">
+  <defs
+     id="defs3847" />
+  <metadata
+     id="metadata3850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-290.71429,-365.93361)"
+     id="layer1">
+    <g
+       transform="translate(-29.904382,217.32143)"
+       id="checkgreen">
+      <path
+         d="m 124.64285,110.21932 a 23.571428,23.571428 0 1 1 -47.142852,0 23.571428,23.571428 0 1 1 47.142852,0 z"
+         transform="translate(243.11867,61.964287)"
+         id="path2985-5"
+         style="fill:#77b300;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <g
+         transform="translate(-3.6083394e-6,9.2044309e-6)"
+         id="text3843"
+         style="font-size:55.75788498px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans">
+        <path
+           d="m 333.19098,170.5773 c 0.70785,2e-5 1.24329,0.58083 1.60631,1.74243 0.726,2.17806 1.24328,3.26708 1.55186,3.26706 0.23593,2e-5 0.48096,-0.18148 0.73508,-0.54451 5.10023,-7.49607 9.81932,-12.83227 14.15728,-16.00861 1.83315,-1.34309 3.62096,-2.01465 5.36343,-2.01469 2.30506,4e-5 3.69356,0.0726 4.16551,0.21781 0.19961,0.0545 0.29944,0.28136 0.29948,0.68063 -4e-5,0.32674 -0.20877,0.73513 -0.62619,1.22515 -11.67071,13.39498 -18.62228,22.10714 -20.85476,26.13651 -0.76233,1.37943 -2.52291,2.06915 -5.28175,2.06914 -0.90753,1e-5 -1.86042,-0.23595 -2.85868,-0.70786 -0.41747,-0.2178 -1.14348,-1.6063 -2.17804,-4.16551 -1.30684,-3.23075 -1.96025,-6.0622 -1.96024,-8.49436 -10e-6,-0.88935 0.63525,-1.62444 1.90579,-2.20527 1.74242,-0.7986 3.04924,-1.1979 3.92047,-1.19792 l 0.0545,0"
+           id="path3852"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>
